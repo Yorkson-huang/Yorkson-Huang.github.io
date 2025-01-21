@@ -96,7 +96,18 @@ h1:before, .anchor:before {
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
 }
-
+.highlighter-rouge {
+    background-color: rgb(3, 34, 141);
+    color: white;
+    margin-bottom: 0em;
+    font-size: 0.6875em;
+    padding: 0em;
+    border-width: 0px;
+    border-style: solid;
+    border-color: rgb(242, 243, 243);
+    border-image: initial;
+    border-radius: 0px;
+}
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
