@@ -51,10 +51,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 </div>
 </div>
 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-<li><code class="language-plaintext highlighter-rouge">AAAI 2024</code> <a href="https://arxiv.org/abs/2312.11947">Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling</a>, Rui Liu, Yifan Hu, <strong>Yi Ren</strong>, et al. <a href="https://github.com/walker-hyf/ECSS"><img src="https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&amp;label=Code+Stars" alt=""></a></li>
+<li><div class="badge">CMC 2024</div><a href="https://arxiv.org/abs/2312.11947">Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling</a>, Rui Liu, Yifan Hu, <strong>Yi Ren</strong>, et al. <a href="https://github.com/walker-hyf/ECSS"><img src="https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&amp;label=Code+Stars" alt=""></a></li>
 
 # 🎖 Honors and Awards
 - *2024.05* **Finalist Award** for the E problem of the American College Students Mathematical Contest in Modeling (**top 2%** in the world), COMAP.
