@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Yuesheng Huang was selected as the 2023 Guangdong Provincial Person of the Year. Guangdong Province only selected 10 people. He is the youngest winner in the same year and the only undergraduate student enrolled in the class of 2021.
-- *2024.05*: &nbsp;🎉🎉 Yuesheng Huang was featured in the People's Daily as a representative of 100 undergraduate national scholarship winners, only 4 of whom were from Guangdong Province. 
+- *2024.12*: &nbsp;🎉🎉 Yuesheng Huang was selected as the 2023 **Guangdong Provincial Person of the Year**. Guangdong Province only selected **10 people**. He is the **youngest winner** in the same year and the only undergraduate student enrolled in the class of 2021.
+- *2024.05*: &nbsp;🎉🎉 Yuesheng Huang was featured in the **People's Daily** as a representative of 100 undergraduate national scholarship winners, **only 4** of whom were from Guangdong Province. 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMC 2024</div><img src='images/cmc.png' alt="sym" width="100%"></div></div>
@@ -59,15 +59,15 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.05* Finalist Award for the E problem of the American College Students Mathematical Contest in Modeling (top 2% in the world), COMAP.
-- *2023.12* Awarded the National scholarship.
-- *2023.11* First prize in Guangdong division of China University Students Mathematical Contest in Modeling,Guangdong Provincial Department of Education.
-- *2023.08* First prize of China College Student Computer Design Competition Guangdong Division,Guangdong Provincial Department of Education.
-- *2023.08* Outstanding Award in International University Mathematical Contest in Modeling.
+- *2024.05* **Finalist Award** for the E problem of the American College Students Mathematical Contest in Modeling (**top 2%** in the world), COMAP.
+- *2023.12* Awarded the **National scholarship**.
+- *2023.11* **First prize** in Guangdong division of China University Students Mathematical Contest in Modeling,Guangdong Provincial Department of Education.
+- *2023.08* **First prize** of China College Student Computer Design Competition Guangdong Division,Guangdong Provincial Department of Education.
+- *2023.08* **Outstanding Award** in International University Mathematical Contest in Modeling.
 - *2023.08* The third prize of the National Final of Biomedical Engineering Innovation Design Competition for Chinese College students.
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, Bachelor of Engineering in Internet of Things Engineering, School of Computer Science, Guangdong Polytechnic Normal University.(ESI TOP1%)
+- *2021.09 - 2025.06 (now)*, Bachelor of Engineering in Internet of Things Engineering, School of Computer Science, Guangdong Polytechnic Normal University.(**ESI TOP1%**)
 - *2018.09 - 2021.06*, Ordinary high school, Shaoguan City Wengyuan middle School
 
 # 💬 Academic Conference Reports
