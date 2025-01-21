@@ -65,7 +65,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - *2021.09 - 2025.06 (now)*, Bachelor of Engineering in Internet of Things Engineering, School of Computer Science, Guangdong Polytechnic Normal University.(**ESI TOP1%**)
 - *2018.09 - 2021.06*, Ordinary high school, Shaoguan City Wengyuan middle School
 
-# 💬 Academic Conference Reports
+# 💬 Academic Conference Report
 - *2024.07*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
