@@ -51,7 +51,8 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 </div>
 </div>
 
-<li><code class="language-plaintext highlighter-rouge">AAAI 2024</code> <a href="https://arxiv.org/abs/2312.11947">Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling</a>, Rui Liu, Yifan Hu, <strong>Yi Ren</strong>, et al. <a href="https://github.com/walker-hyf/ECSS"><img src="https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&amp;label=Code+Stars" alt=""></a></li>
+<li><code class="language-plaintext highlighter-rouge">ISCTIS 2024</code> <a href="https://ieeexplore.ieee.org/document/10699096">A FinBERT Framework for Sentiment Analysis of Chinese Financial News</a>, <strong>Yuesheng Huang</strong>, Renyi Lin, Jiawen Li, et al. </li>
+<li><code class="language-plaintext highlighter-rouge">EIECT 2023</code> <a href="https://ieeexplore.ieee.org/document/10442935">An Ensemble Learning Approach for Wind Power Forecasting</a>, <strong>Yuesheng Huang</strong>, Sida Chen, Qilin Wu, et al. </li>
 
 # 🎖 Honors and Awards
 - *2024.05* **Finalist Award** for the E problem of the American College Students Mathematical Contest in Modeling (**top 2%** in the world), COMAP.
