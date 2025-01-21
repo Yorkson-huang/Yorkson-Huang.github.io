@@ -38,6 +38,16 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - https://github.com/Yorkson-huang/Text-to-image-SA. 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Letters</div><img src='images/EL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction](https://www.engineeringletters.com/issues_v32/issue_10/EL_32_10_14.pdf)
+  
+**Yuesheng Huang**, Jiawen Li, Yushan Li, Routing Lin, Jingru Wu, Leijun Wang, and Rongjun Chen
+
+[**Project**](https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction. 
+</div>
+</div>
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
