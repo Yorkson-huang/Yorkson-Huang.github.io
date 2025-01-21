@@ -23,28 +23,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Huang Yuesheng was selected as the 2023 Guangdong Provincial Person of the Year. Guangdong Province only selected 10 people. He is the youngest winner in the same year and the only undergraduate student enrolled in the class of 2021.
+- *2024.12*: &nbsp;🎉🎉 Yuesheng Huang was selected as the 2023 Guangdong Provincial Person of the Year. Guangdong Province only selected 10 people. He is the youngest winner in the same year and the only undergraduate student enrolled in the class of 2021.
 - *2024.05*: &nbsp;🎉🎉 Yuesheng Huang was featured in the People's Daily as a representative of 100 undergraduate national scholarship winners, only 4 of whom were from Guangdong Province. 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMC 2024</div><img src='images/cmc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model](https://www.techscience.com/cmc/v80n1/57421)
-
+  
 Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Chen
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/Yorkson-huang/Text-to-image-SA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- https://github.com/Yorkson-huang/Text-to-image-SA. 
 </div>
 </div>
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
