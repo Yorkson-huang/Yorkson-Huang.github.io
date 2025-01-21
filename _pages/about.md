@@ -73,4 +73,6 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - *2023.05-2024.05*, "Research and implementation of MIMO system detection algorithm based on Gaussian tree", Chinese college students Innovation and Entrepreneurship plan project, **Huang Yuesheng as host**. (Project completed)
 
 # 💻 Patents and Copyrights
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024*, "Flask based medical image segmentation platform V1.0", Chinese software copyright, 2024SR0877362
+- *2023*, "Medical glucan information test system V1.0", Chinese software copyright, 2023SR1635698
+- *2023*, "Multi-arm obstacle detection and motion planning software V1.0 based on sound wave sensing", Chinese software copyright, 2023SR1657692
