@@ -72,5 +72,5 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - *2024.05-2025*, "Aquaponics, Ecological co-prosperity: A general agricultural visual large model for digital aquaponics fish pond system DASAM-Dachuang Declaration", Chinese college students Innovation and Entrepreneurship plan project, Second participant.
 - *2023.05-2024.05*, "Research and implementation of MIMO system detection algorithm based on Gaussian tree", Chinese college students Innovation and Entrepreneurship plan project, **Huang Yuesheng as host**. (Project completed)
 
-# 💻 Internships
+# 💻 Patents and Copyrights
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
