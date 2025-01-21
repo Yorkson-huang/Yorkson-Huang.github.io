@@ -46,6 +46,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 **Yuesheng Huang**, Jiawen Li, Yushan Li, Routing Lin, Jingru Wu, Leijun Wang, and Rongjun Chen
 
 [**Project**](https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - <a>KOA-CNN-LSTM-Attention-Prediction <img src="https://img.shields.io/github/stars/Yorkson-huang/CNN-LSTM-Attention-Prediction?style=social" alt=""></a>
 </div>
 </div>
