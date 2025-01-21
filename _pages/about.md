@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently in my senior year at Guangdong Technical Normal University in China
+I am currently in my senior year at Guangdong Polytechnic Normal University in China
 I am currently engaged in multimodal sentiment analysis, medical multimodal data fusion and other research. If you are looking for an internship, please feel free to email me at <a href='yueshenghuang@stu.gpnu.edu.cn'>yueshenghuang@stu.gpnu.edu.cn</a> I am looking for an internship.
 I am enrolled in the Department of Internet of Things Engineering in GPNU's School of Computer Science under the supervision of Assistant Professor Jiawen Li. Many of the topics I explored and experimented with myself.
 In 2024, he won the Guangdong Provincial Person of the Year (10 winners from Guangdong) and the Student representative of the People's Daily National Scholarship (only 4 winners from Guangdong).
