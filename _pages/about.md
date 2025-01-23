@@ -56,7 +56,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 <li><code class="language-plaintext highlighter-rouge">EIECT 2023</code> <a href="https://ieeexplore.ieee.org/document/10442935">An Ensemble Learning Approach for Wind Power Forecasting</a>, <strong>Yuesheng Huang</strong>, Sida Chen, Qilin Wu, et al. </li>
 
 # 🏆 Honors and Awards
-- *2024.05* **Finalist Award** for the E problem of the American College Students Mathematical Contest in Modeling (**top 2%** in the world), COMAP.
+- *2024.05* **Finalist Award** for the E problem of the American College Students Mathematical Contest in Modeling (**Top 2%** in the world), COMAP.
 - *2023.12* Awarded the **National scholarship**.
 - *2023.11* **First prize** in Guangdong division of China University Students Mathematical Contest in Modeling,Guangdong Provincial Department of Education.
 - *2023.08* **First prize** of China College Student Computer Design Competition Guangdong Division,Guangdong Provincial Department of Education.
@@ -64,7 +64,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - *2023.08* The third prize of the National Final of Biomedical Engineering Innovation Design Competition for Chinese College students.
 
 # 🎓 Educations
-- *2021.09 - 2025.06 (now)*, Bachelor of Engineering in Internet of Things Engineering, School of Computer Science, Guangdong Polytechnic Normal University.(**ESI TOP1%**)
+- *2021.09 - 2025.06 (now)*, Bachelor of Engineering in Internet of Things Engineering(**ESI TOP 1%**), School of Computer Science, Guangdong Polytechnic Normal University.(**GPA:91.9/100, Rank:1/112**)
 - *2018.09 - 2021.06*, Ordinary high school, Shaoguan City Wengyuan middle School
 
 # 📖 Research topics
