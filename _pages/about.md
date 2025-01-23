@@ -70,7 +70,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 # 📖 Research topics
 - *2024.01-2026-01*, "Research on fine-grained sentiment analysis of multi-modal data fusion based on deep learning", Guangdong Provincial Science and Technology Innovation Fund, 45,000CNY, **Huang Yuesheng as host**. 
 - *2024.05-2025*, "Neurodetective: An interpretable multimodal contrastive learning Framework for the diagnosis of neurodegenerative diseases", Chinese college students Innovation and Entrepreneurship plan project, **Huang Yuesheng as host**.
-- *2024.05-2025*, "Aquaponics, Ecological co-prosperity: A general agricultural visual large model for digital aquaponics fish pond system DASAM-Dachuang Declaration", Chinese college students Innovation and Entrepreneurship plan project, Second participant.
+- *2024.05-2025*, "Aquaponics, Ecological co-prosperity: A general agricultural visual large model for digital aquaponics fish pond system called DASAM", Chinese college students Innovation and Entrepreneurship plan project, Second participant.
 - *2023.05-2024.05*, "Research and implementation of MIMO system detection algorithm based on Gaussian tree", Chinese college students Innovation and Entrepreneurship plan project, **Huang Yuesheng as host**. (Project completed)
 
 # ©️ Patents and Copyrights
