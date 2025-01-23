@@ -55,7 +55,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 <li><code class="language-plaintext highlighter-rouge">ISCTIS 2024</code> <a href="https://ieeexplore.ieee.org/document/10699096">A FinBERT Framework for Sentiment Analysis of Chinese Financial News</a>, <strong>Yuesheng Huang</strong>, Renyi Lin, Jiawen Li, et al. </li>
 <li><code class="language-plaintext highlighter-rouge">EIECT 2023</code> <a href="https://ieeexplore.ieee.org/document/10442935">An Ensemble Learning Approach for Wind Power Forecasting</a>, <strong>Yuesheng Huang</strong>, Sida Chen, Qilin Wu, et al. </li>
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.05* **Finalist Award** for the E problem of the American College Students Mathematical Contest in Modeling (**top 2%** in the world), COMAP.
 - *2023.12* Awarded the **National scholarship**.
 - *2023.11* **First prize** in Guangdong division of China University Students Mathematical Contest in Modeling,Guangdong Provincial Department of Education.
@@ -63,17 +63,17 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - *2023.08* **Outstanding Award** in International University Mathematical Contest in Modeling.
 - *2023.08* The third prize of the National Final of Biomedical Engineering Innovation Design Competition for Chinese College students.
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.09 - 2025.06 (now)*, Bachelor of Engineering in Internet of Things Engineering, School of Computer Science, Guangdong Polytechnic Normal University.(**ESI TOP1%**)
 - *2018.09 - 2021.06*, Ordinary high school, Shaoguan City Wengyuan middle School
 
-# 💬 Research topics
+# 📖 Research topics
 - *2024.01-2026-01*, "Research on fine-grained sentiment analysis of multi-modal data fusion based on deep learning", Guangdong Provincial Science and Technology Innovation Fund, 45,000CNY, **Huang Yuesheng as host**. 
 - *2024.05-2025*, "Neurodetective: An interpretable multimodal contrastive learning Framework for the diagnosis of neurodegenerative diseases", Chinese college students Innovation and Entrepreneurship plan project, **Huang Yuesheng as host**.
 - *2024.05-2025*, "Aquaponics, Ecological co-prosperity: A general agricultural visual large model for digital aquaponics fish pond system DASAM-Dachuang Declaration", Chinese college students Innovation and Entrepreneurship plan project, Second participant.
 - *2023.05-2024.05*, "Research and implementation of MIMO system detection algorithm based on Gaussian tree", Chinese college students Innovation and Entrepreneurship plan project, **Huang Yuesheng as host**. (Project completed)
 
-# 💻 Patents and Copyrights
+# ©️ Patents and Copyrights
 - *2024*, "Flask based medical image segmentation platform V1.0", Chinese software copyright, 2024SR0877362
 - *2023*, "Medical glucan information test system V1.0", Chinese software copyright, 2023SR1635698
 - *2023*, "Multi-arm obstacle detection and motion planning software V1.0 based on sound wave sensing", Chinese software copyright, 2023SR1657692
