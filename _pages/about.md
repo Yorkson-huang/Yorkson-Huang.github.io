@@ -14,7 +14,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
+# 💡 About Me
 <span class='anchor' id='about-me'></span>
 I am currently in my senior year at Guangdong Polytechnic Normal University in China
 I am currently engaged in multimodal sentiment analysis, medical multimodal data fusion and other research. If you're looking for an intern, please feel free to email me at <a href='mailto:yueshenghuang@stu.gpnu.edu.cn'>yueshenghuang@stu.gpnu.edu.cn</a> I am looking for an internship.
