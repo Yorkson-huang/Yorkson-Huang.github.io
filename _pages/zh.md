@@ -8,6 +8,25 @@ redirect_from:
   - /zh/about.html
 ---
 
+<style>
+  .ai-orcid-square:before {
+    content: "\e841";
+    font-family: 'Academicons';
+  }
+  .ai {
+    display: inline-block;
+    font: normal normal normal 14px/1 Academicons;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .ai-fw {
+    width: 1.28571429em;
+    text-align: center;
+  }
+</style>
+
 <div style="text-align: right; margin-bottom: 20px;">
   <a href="/" style="display: inline-block; padding: 5px 10px; text-decoration: none; color: #666;">English</a>
   <a href="/zh" style="display: inline-block; padding: 5px 10px; background-color: #f8f9fa; border-radius: 4px; text-decoration: none; color: #333; font-weight: bold; border: 1px solid #ddd;">中文</a>
