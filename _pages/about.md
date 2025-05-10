@@ -69,6 +69,8 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - *2023.08* **First prize** of China College Student Computer Design Competition Guangdong Division,Guangdong Provincial Department of Education.
 - *2023.08* **Outstanding Award** in International University Mathematical Contest in Modeling.
 - *2023.08* The third prize of the National Final of Biomedical Engineering Innovation Design Competition for Chinese College students.
+- *2022.12* **Silver Medal** in Kaggle Lux AI Competition.
+- *2022.10* **First Prize** in Information Technology, Healthcare, and Modern Service Tracks at the China University Student Innovation and Entrepreneurship Competition.
 
 # 🎓 Educations
 - *2021.09 - 2025.06 (now)*, Bachelor of Engineering in Internet of Things Engineering(**ESI TOP 1%**), School of Computer Science, Guangdong Polytechnic Normal University.(**GPA:91.9/100, Rank:1/112**)
@@ -79,6 +81,8 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - *2024.01-2026-01*, "Research on fine-grained sentiment analysis of multi-modal data fusion based on deep learning", Guangdong Provincial Science and Technology Innovation Fund, 45,000CNY, **Huang Yuesheng as host**. 
 - *2024.05-2025*, "Neurodetective: An interpretable multimodal contrastive learning Framework for the diagnosis of neurodegenerative diseases", Chinese college students Innovation and Entrepreneurship plan project, **Huang Yuesheng as host**.
 - *2024.05-2025*, "Aquaponics, Ecological co-prosperity: A general agricultural visual large model for digital aquaponics fish pond system called DASAM", Chinese college students Innovation and Entrepreneurship plan project, Second participant.
+- *2024.05-2025*, "Early Diagnosis System for Alzheimer's Disease Based on Mixture of Experts (MoE) Multimodal Model", Chinese college students Innovation and Entrepreneurship plan project, Second participant.
+- *2024.05-2025*, "Diffusion Model-Empowered Multimodal Decision Making: Breaking the Bottleneck of Rare Disease Medical Image Shortage for AI-Assisted Diagnosis Platform", Chinese college students Innovation and Entrepreneurship plan project, Second participant.
 - *2023.05-2024.05*, "Research and implementation of MIMO system detection algorithm based on Gaussian tree", Chinese college students Innovation and Entrepreneurship plan project, **Huang Yuesheng as host**. (Project completed)
 
 # ©️ Patents and Copyrights
