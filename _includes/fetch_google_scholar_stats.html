@@ -8,19 +8,54 @@
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
             document.getElementById('total_cit').innerHTML = totalCitation;
+            
+            // 标准引用显示
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                if (data['publications'] && data['publications'][paperId]) {
+                    var numCitations = data['publications'][paperId]['num_citations']
+                    element.innerHTML = '| Citations: ' + numCitations;
+                }
             });
             
-            // 添加新功能：为引用计数徽章填充数据
-            var citationCountEles = document.getElementsByClassName('citation_count')
-            Array.prototype.forEach.call(citationCountEles, element => {
-                var paperId = element.getAttribute('data-paperid')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = numCitations;
+            // shields.io风格的引用计数徽章
+            var paperCitationsEles = document.getElementsByClassName('paper_citations')
+            Array.prototype.forEach.call(paperCitationsEles, element => {
+                var paperId = element.getAttribute('data-paper-id')
+                if (data['publications'] && data['publications'][paperId]) {
+                    var numCitations = data['publications'][paperId]['num_citations']
+                    var newSrc = 'https://img.shields.io/badge/Citations-' + numCitations + '-blue?style=social&logo=google-scholar'
+                    element.setAttribute('src', newSrc)
+                }
+            });
+        }).fail(function(jqXHR, textStatus, errorThrown) {
+            console.log("获取Google Scholar数据失败: " + textStatus);
+            console.log("错误: " + errorThrown);
+            
+            // 如果GitHub API请求失败，尝试直接使用Scholar API爬取数据
+            var paperCitationsEles = document.getElementsByClassName('paper_citations')
+            Array.prototype.forEach.call(paperCitationsEles, element => {
+                var paperUrl = element.parentElement.getAttribute('href')
+                if (paperUrl) {
+                    // 使用代理服务器请求谷歌学术数据
+                    $.ajax({
+                        url: 'https://api.allorigins.win/get?url=' + encodeURIComponent(paperUrl),
+                        type: 'GET',
+                        dataType: 'json',
+                        success: function(data) {
+                            if (data && data.contents) {
+                                var htmlContent = data.contents
+                                var citationMatch = htmlContent.match(/Cited by\s(\d+)/)
+                                if (citationMatch && citationMatch[1]) {
+                                    var citations = citationMatch[1]
+                                    var newSrc = 'https://img.shields.io/badge/Citations-' + citations + '-blue?style=social&logo=google-scholar'
+                                    element.setAttribute('src', newSrc)
+                                }
+                            }
+                        }
+                    });
+                }
             });
         });
     })
