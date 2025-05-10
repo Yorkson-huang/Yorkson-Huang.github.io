@@ -40,11 +40,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 # 💡 关于我
 <span class='anchor' id='about-me'></span>
-我目前是中国广东理工职业学院的大四学生。
-我目前从事多模态情感分析、医学多模态数据融合等研究。如果您正在寻找实习生，请随时通过邮件联系我 <a href='mailto:yueshenghuang@stu.gpnu.edu.cn'>yueshenghuang@stu.gpnu.edu.cn</a>，我正在寻找实习机会。
-我就读于广东理工职业学院计算机学院物联网工程系，在助理教授李嘉文的指导下学习。我探索和实验的许多课题都是自己主动进行的。
-2024年，我获得了广东省年度人物（广东省共10名获奖者）和人民日报全国奖学金学生代表（广东省仅4名获奖者）的荣誉。
-我的研究兴趣包括医疗人工智能、社会计算等。由于我尚未深入研究，我发表的论文水平较低。我很荣幸成为IJCNN国际会议的审稿人之一。
+我是广东技术师范大学计算机科学学院物联网工程专业的大四学生，师从黎嘉文助理教授，研究方向为多模态情感分析和医学多模态数据融合，同时对医疗人工智能、社会计算等领域有浓厚兴趣。
+我曾获2024年“广东省年度大学生人物”和入选“《人民日报》国家奖学金获奖代表名录”荣誉，并多次担任IJCNN国际会议审稿人。目前我正积极寻找实习机会，如果您有相关需求，欢迎通过邮箱<a href='mailto:yueshenghuang@stu.gpnu.edu.cn'>yueshenghuang@stu.gpnu.edu.cn</a>联系我。
 
 # 🔥 新闻
 <span class='anchor' id='-news'></span>
