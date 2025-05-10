@@ -9,7 +9,7 @@
 title                    : "Yuesheng Huang(黄月胜）"
 description              : "IoT Engineering undergraduate with a focus on multimodal affective computing"
 repository               : "Yorkson-huang/Yorkson-Huang.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : "edyJPQQAAAAJ" # get google_analytics_id from https://analytics.google.com/analytics/
