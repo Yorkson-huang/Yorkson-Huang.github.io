@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/assets/pdf/CV.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://pdflink.to/yorksoncv/" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-[download PDF](/assets/pdf/CV.pdf) 
+[download PDF](https://pdflink.to/yorksoncv/) 
