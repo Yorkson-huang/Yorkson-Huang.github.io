@@ -35,7 +35,7 @@ My research interests include medical artificial intelligence, social computing,
 Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Chen
 
 
-[**Project**](https://github.com/Yorkson-huang/Text-to-image-SA) <strong><span class='show_paper_citations' data='edyJPQQAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project**](https://github.com/Yorkson-huang/Text-to-image-SA)
 
 - <a> https://github.com/Yorkson-huang/Text-to-image-SA <img src="https://img.shields.io/github/stars/Yorkson-huang/Text-to-image-SA?style=social" alt=""></a>
 - <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=edyJPQQAAAAJ&citation_for_view=edyJPQQAAAAJ:d1gkVwhDpl0C"> <img id="citation-badge-1" src="https://img.shields.io/badge/Citations-2-blue?style=social&logo=google-scholar" class="paper_citations" data-paper-id="edyJPQQAAAAJ:d1gkVwhDpl0C" alt="Scholar Citations"></a>
@@ -47,7 +47,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
   
 **Yuesheng Huang**, Jiawen Li, Yushan Li, Routing Lin, Jingru Wu, Leijun Wang, and Rongjun Chen
 
-[**Project**](https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction) <strong><span class='show_paper_citations' data='edyJPQQAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Project**](https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction)
 
 - <a>KOA-CNN-LSTM-Attention-Prediction <img src="https://img.shields.io/github/stars/Yorkson-huang/CNN-LSTM-Attention-Prediction?style=social" alt=""></a>
 - <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=edyJPQQAAAAJ&citation_for_view=edyJPQQAAAAJ:2osOgNQ5qMEC"> <img id="citation-badge-2" src="https://img.shields.io/badge/Citations-3-blue?style=social&logo=google-scholar" class="paper_citations" data-paper-id="edyJPQQAAAAJ:2osOgNQ5qMEC" alt="Scholar Citations"></a>
