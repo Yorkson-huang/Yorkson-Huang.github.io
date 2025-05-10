@@ -1,58 +1,17 @@
 <script>
-    $(document).ready(function () {
-        console.log("开始加载谷歌学术数据");
+    // 禁用所有动态加载，使用硬编码值
+    console.log("引用数据使用硬编码值");
+    
+    // 我们可以在这里添加一些调试信息，但不执行任何数据加载或DOM修改
+    $(document).ready(function() {
+        console.log("页面已加载");
+        console.log("徽章元素数量: " + document.getElementsByClassName('paper_citations').length);
         
-        var repoURL = "https://raw.githubusercontent.com/Yorkson-huang/Yorkson-Huang.github.io/google-scholar-stats/gs_data.json";
-        console.log("数据URL: " + repoURL);
-        
-        $.getJSON(repoURL, function (data) {
-            console.log("成功获取数据");
-            var totalCitation = data['citedby'];
-            console.log("总引用数: " + totalCitation);
-            
-            if (document.getElementById('total_cit')) {
-                document.getElementById('total_cit').innerHTML = totalCitation;
-            }
-            
-            // 标准引用显示
-            var citationEles = document.getElementsByClassName('show_paper_citations');
-            console.log("找到 " + citationEles.length + " 个标准引用元素");
-            
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data');
-                console.log("处理引用元素 ID: " + paperId);
-                
-                if (data['publications'] && data['publications'][paperId]) {
-                    var numCitations = data['publications'][paperId]['num_citations'];
-                    console.log("引用数: " + numCitations);
-                    element.innerHTML = '| Citations: ' + numCitations;
-                } else {
-                    console.log("找不到论文数据: " + paperId);
-                }
-            });
-            
-            // 处理引用徽章
-            var badgeElements = document.getElementsByClassName('paper_citations');
-            console.log("找到 " + badgeElements.length + " 个徽章元素");
-            
-            Array.prototype.forEach.call(badgeElements, element => {
-                var paperId = element.getAttribute('data-paper-id');
-                console.log("处理徽章元素 ID: " + paperId);
-                
-                if (data['publications'] && data['publications'][paperId]) {
-                    var numCitations = data['publications'][paperId]['num_citations'];
-                    console.log("引用数: " + numCitations);
-                    
-                    var newSrc = 'https://img.shields.io/badge/Citations-' + numCitations + '-blue?style=social&logo=google-scholar';
-                    element.setAttribute('src', newSrc);
-                    console.log("设置新图片 URL: " + newSrc);
-                } else {
-                    console.log("找不到论文数据: " + paperId);
-                }
-            });
-        }).fail(function(jqXHR, textStatus, errorThrown) {
-            console.error("获取数据失败: " + textStatus);
-            console.error("错误: " + errorThrown);
-        });
+        // 仅记录硬编码的引用数
+        var badges = document.getElementsByClassName('paper_citations');
+        for (var i = 0; i < badges.length; i++) {
+            var src = badges[i].getAttribute('src');
+            console.log("徽章 #" + (i+1) + " URL: " + src);
+        }
     });
 </script>
