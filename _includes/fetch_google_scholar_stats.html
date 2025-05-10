@@ -1,62 +1,58 @@
 <script>
     $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
+        console.log("开始加载谷歌学术数据");
+        
+        var repoURL = "https://raw.githubusercontent.com/Yorkson-huang/Yorkson-Huang.github.io/google-scholar-stats/gs_data.json";
+        console.log("数据URL: " + repoURL);
+        
+        $.getJSON(repoURL, function (data) {
+            console.log("成功获取数据");
+            var totalCitation = data['citedby'];
+            console.log("总引用数: " + totalCitation);
+            
+            if (document.getElementById('total_cit')) {
+                document.getElementById('total_cit').innerHTML = totalCitation;
+            }
             
             // 标准引用显示
-            var citationEles = document.getElementsByClassName('show_paper_citations')
+            var citationEles = document.getElementsByClassName('show_paper_citations');
+            console.log("找到 " + citationEles.length + " 个标准引用元素");
+            
             Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
+                var paperId = element.getAttribute('data');
+                console.log("处理引用元素 ID: " + paperId);
+                
                 if (data['publications'] && data['publications'][paperId]) {
-                    var numCitations = data['publications'][paperId]['num_citations']
+                    var numCitations = data['publications'][paperId]['num_citations'];
+                    console.log("引用数: " + numCitations);
                     element.innerHTML = '| Citations: ' + numCitations;
+                } else {
+                    console.log("找不到论文数据: " + paperId);
                 }
             });
             
-            // shields.io风格的引用计数徽章
-            var paperCitationsEles = document.getElementsByClassName('paper_citations')
-            Array.prototype.forEach.call(paperCitationsEles, element => {
-                var paperId = element.getAttribute('data-paper-id')
+            // 处理引用徽章
+            var badgeElements = document.getElementsByClassName('paper_citations');
+            console.log("找到 " + badgeElements.length + " 个徽章元素");
+            
+            Array.prototype.forEach.call(badgeElements, element => {
+                var paperId = element.getAttribute('data-paper-id');
+                console.log("处理徽章元素 ID: " + paperId);
+                
                 if (data['publications'] && data['publications'][paperId]) {
-                    var numCitations = data['publications'][paperId]['num_citations']
-                    var newSrc = 'https://img.shields.io/badge/Citations-' + numCitations + '-blue?style=social&logo=google-scholar'
-                    element.setAttribute('src', newSrc)
+                    var numCitations = data['publications'][paperId]['num_citations'];
+                    console.log("引用数: " + numCitations);
+                    
+                    var newSrc = 'https://img.shields.io/badge/Citations-' + numCitations + '-blue?style=social&logo=google-scholar';
+                    element.setAttribute('src', newSrc);
+                    console.log("设置新图片 URL: " + newSrc);
+                } else {
+                    console.log("找不到论文数据: " + paperId);
                 }
             });
         }).fail(function(jqXHR, textStatus, errorThrown) {
-            console.log("获取Google Scholar数据失败: " + textStatus);
-            console.log("错误: " + errorThrown);
-            
-            // 如果GitHub API请求失败，尝试直接使用Scholar API爬取数据
-            var paperCitationsEles = document.getElementsByClassName('paper_citations')
-            Array.prototype.forEach.call(paperCitationsEles, element => {
-                var paperUrl = element.parentElement.getAttribute('href')
-                if (paperUrl) {
-                    // 使用代理服务器请求谷歌学术数据
-                    $.ajax({
-                        url: 'https://api.allorigins.win/get?url=' + encodeURIComponent(paperUrl),
-                        type: 'GET',
-                        dataType: 'json',
-                        success: function(data) {
-                            if (data && data.contents) {
-                                var htmlContent = data.contents
-                                var citationMatch = htmlContent.match(/Cited by\s(\d+)/)
-                                if (citationMatch && citationMatch[1]) {
-                                    var citations = citationMatch[1]
-                                    var newSrc = 'https://img.shields.io/badge/Citations-' + citations + '-blue?style=social&logo=google-scholar'
-                                    element.setAttribute('src', newSrc)
-                                }
-                            }
-                        }
-                    });
-                }
-            });
+            console.error("获取数据失败: " + textStatus);
+            console.error("错误: " + errorThrown);
         });
-    })
+    });
 </script>
