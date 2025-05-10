@@ -1,0 +1,27 @@
+{
+  "name": "Yuesheng Huang",
+  "citedby": 5,
+  "updated": "2024-07-10 12:00:00.000000",
+  "publications": {
+    "edyJPQQAAAAJ:d1gkVwhDpl0C": {
+      "num_citations": 2,
+      "title": "Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model",
+      "author_pub_id": "edyJPQQAAAAJ:d1gkVwhDpl0C"
+    },
+    "edyJPQQAAAAJ:2osOgNQ5qMEC": {
+      "num_citations": 3,
+      "title": "An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction",
+      "author_pub_id": "edyJPQQAAAAJ:2osOgNQ5qMEC"
+    },
+    "edyJPQQAAAAJ:ufrVoPGSRksC": {
+      "num_citations": 0,
+      "title": "A FinBERT Framework for Sentiment Analysis of Chinese Financial News",
+      "author_pub_id": "edyJPQQAAAAJ:ufrVoPGSRksC"
+    },
+    "edyJPQQAAAAJ:9yKSN-GCB0IC": {
+      "num_citations": 0,
+      "title": "An Ensemble Learning Approach for Wind Power Forecasting",
+      "author_pub_id": "edyJPQQAAAAJ:9yKSN-GCB0IC"
+    }
+  }
+} 
