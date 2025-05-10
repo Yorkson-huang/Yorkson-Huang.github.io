@@ -3,9 +3,6 @@ name: Get Citation Data
 on: 
  push:
    branches: [main]
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
  workflow_dispatch:
 
 jobs:
@@ -15,39 +12,46 @@ jobs:
       contents: write
     steps:
     - uses: actions/checkout@v3
-      with:
-        persist-credentials: true
+    
     - name: Install Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
+        
     - name: Install Dependencies
       run: |
         pip install requests
-    - name: Run
+        
+    - name: Run Scholar Script and Debug
       run: |
+        echo "Current directory: $(pwd)"
+        ls -la
         cd ./google_scholar_crawler
-        mkdir -p results
+        echo "Google Scholar Crawler directory content:"
+        ls -la
+        echo "Running fix_scholar_data.py..."
         python fix_scholar_data.py
+        echo "Script executed, checking results..."
+        ls -la
+        mkdir -p results
         ls -la results/
-        cd results
         
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    - name: Setup Git for Branch
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
         
-        # 创建新的临时目录用于保存结果
-        mkdir -p ${GITHUB_WORKSPACE}/temp_branch
-        cp *.json ${GITHUB_WORKSPACE}/temp_branch/
+    - name: Create and Update Scholar Stats Branch
+      run: |
+        # 保存结果文件
+        cp -r ./google_scholar_crawler/results/*.json ./
         
-        # 检出google-scholar-stats分支
-        cd ${GITHUB_WORKSPACE}
-        git fetch --all
-        git checkout -B google-scholar-stats || git checkout --orphan google-scholar-stats
-        git rm -rf . || true
-        git clean -fdx || true
+        # 尝试创建或检出分支
+        git checkout -b google-scholar-stats || git checkout google-scholar-stats
         
-        # 复制结果文件并提交
-        cp -r ${GITHUB_WORKSPACE}/temp_branch/* .
+        # 添加并提交文件
         git add *.json
         git commit -m "Updated Citation Data" || echo "No changes to commit"
-        git push origin google-scholar-stats
+        
+        # 推送到远程分支
+        git push -f origin google-scholar-stats
