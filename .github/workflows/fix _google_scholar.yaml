@@ -1,0 +1,37 @@
+name: Fix Google Scholar Data
+
+on: 
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # 每天午夜运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    - name: Install Dependencies
+      run: |
+        pip install requests
+    - name: Run Fix Script
+      run: |
+        cd ./google_scholar_crawler
+        python fix_scholar_data.py
+        mkdir -p results # 确保results目录存在
+        cd ./results
+        ls -la
+        git config --local user.name "${GITHUB_ACTOR}"
+        git config --local user.email "action@github.com"
+        git add *.json
+        git commit -m "Updated Citation Data via fix script" || echo "No changes to commit"
+        
+        # 创建新分支并推送
+        git branch -M google-scholar-stats || echo "Branch already exists"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git push "${remote_repo}" HEAD:google-scholar-stats --force
