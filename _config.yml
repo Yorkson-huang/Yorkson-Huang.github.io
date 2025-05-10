@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuesheng Huang"
+title                    : "Yuesheng Huang(黄月胜）"
 description              : "IoT Engineering undergraduate with a focus on multimodal affective computing"
 repository               : "Yorkson-huang/Yorkson-Huang.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuesheng Huang"
+  name             : "Yuesheng Huang(黄月胜)"
   avatar           : "/images/android-chrome-512x512.png"
   bio              : "Guangdong Polytechnic Normal University"
   location         : "Guangzhou, China"
@@ -46,6 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0004-4028-448X"# e.g., "https://orcid.org/xxxx"
+  cv               : "/cv/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
