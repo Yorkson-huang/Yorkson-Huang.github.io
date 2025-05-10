@@ -35,10 +35,10 @@ My research interests include medical artificial intelligence, social computing,
 Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Chen
 
 
-[**Project**](https://github.com/Yorkson-huang/Text-to-image-SA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/Yorkson-huang/Text-to-image-SA) <strong><span class='show_paper_citations' data='edyJPQQAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 - <a> https://github.com/Yorkson-huang/Text-to-image-SA <img src="https://img.shields.io/github/stars/Yorkson-huang/Text-to-image-SA?style=social" alt=""></a>
-- <a> <img src="https://img.shields.io/badge/Citations-<span class='citation_count' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>-blue?style=social&logo=google-scholar" alt="Scholar Citations"></a>
+- <a> <img src="https://img.shields.io/badge/Citations-<span class='citation_count' data='edyJPQQAAAAJ:d1gkVwhDpl0C'></span>-blue?style=social&logo=google-scholar" alt="Scholar Citations"></a>
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Letters</div><img src='images/EL.png' alt="sym" width="100%"></div></div>
@@ -47,10 +47,10 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
   
 **Yuesheng Huang**, Jiawen Li, Yushan Li, Routing Lin, Jingru Wu, Leijun Wang, and Rongjun Chen
 
-[**Project**](https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction) <strong><span class='show_paper_citations' data='edyJPQQAAAAJ:2osOgNQ5qMEC'></span></strong>
 
 - <a>KOA-CNN-LSTM-Attention-Prediction <img src="https://img.shields.io/github/stars/Yorkson-huang/CNN-LSTM-Attention-Prediction?style=social" alt=""></a>
-- <a> <img src="https://img.shields.io/badge/Citations-<span class='citation_count' data='DhtAFkwAAAAJ:qjMakFHDy7sC'></span>-blue?style=social&logo=google-scholar" alt="Scholar Citations"></a>
+- <a> <img src="https://img.shields.io/badge/Citations-<span class='citation_count' data='edyJPQQAAAAJ:2osOgNQ5qMEC'></span>-blue?style=social&logo=google-scholar" alt="Scholar Citations"></a>
 </div>
 </div>
 
