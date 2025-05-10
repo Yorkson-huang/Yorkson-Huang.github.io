@@ -38,6 +38,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 [**Project**](https://github.com/Yorkson-huang/Text-to-image-SA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - <a> https://github.com/Yorkson-huang/Text-to-image-SA <img src="https://img.shields.io/github/stars/Yorkson-huang/Text-to-image-SA?style=social" alt=""></a>
+- <a> <img src="https://img.shields.io/badge/Citations-<span class='citation_count' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>-blue?style=social&logo=google-scholar" alt="Scholar Citations"></a>
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Letters</div><img src='images/EL.png' alt="sym" width="100%"></div></div>
@@ -49,6 +50,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 [**Project**](https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - <a>KOA-CNN-LSTM-Attention-Prediction <img src="https://img.shields.io/github/stars/Yorkson-huang/CNN-LSTM-Attention-Prediction?style=social" alt=""></a>
+- <a> <img src="https://img.shields.io/badge/Citations-<span class='citation_count' data='DhtAFkwAAAAJ:qjMakFHDy7sC'></span>-blue?style=social&logo=google-scholar" alt="Scholar Citations"></a>
 </div>
 </div>
 
