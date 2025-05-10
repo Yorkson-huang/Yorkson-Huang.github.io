@@ -14,6 +14,14 @@
                 var numCitations = data['publications'][paperId]['num_citations']
                 element.innerHTML = '| Citations: ' + numCitations;
             });
+            
+            // 添加新功能：为引用计数徽章填充数据
+            var citationCountEles = document.getElementsByClassName('citation_count')
+            Array.prototype.forEach.call(citationCountEles, element => {
+                var paperId = element.getAttribute('data')
+                var numCitations = data['publications'][paperId]['num_citations']
+                element.innerHTML = numCitations;
+            });
         });
     })
 </script>
