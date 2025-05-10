@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="/" style="display: inline-block; padding: 5px 10px; background-color: #f8f9fa; border-radius: 4px; text-decoration: none; color: #333; font-weight: bold; border: 1px solid #ddd;">English</a>
+  <a href="/zh" style="display: inline-block; padding: 5px 10px; text-decoration: none; color: #666;">中文</a>
+</div>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
