@@ -1,0 +1,62 @@
+.ai-orcid-square:before {
+  content: "\e841";
+  font-family: 'Academicons';
+}
+.ai {
+  display: inline-block;
+  font: normal normal normal 14px/1 Academicons;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.ai-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+.citation-popup {
+  display: none;
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  z-index: 1000;
+  width: 500px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+.citation-format {
+  margin-bottom: 10px;
+  padding: 8px;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em;
+}
+.citation-format:hover {
+  background-color: #e9ecef;
+}
+.citation-btn {
+  cursor: pointer;
+  color: #0366d6;
+  text-decoration: underline;
+  margin-left: 10px;
+}
+.thesis-title {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #0366d6;
+}
+.thesis-abstract {
+  display: none;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  max-height: 300px;
+  overflow-y: auto;
+} 
