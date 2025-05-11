@@ -33,7 +33,7 @@ My research interests include medical artificial intelligence, social computing,
 - *2024.05*: &nbsp;🎉🎉 Yuesheng Huang was featured in the **People's Daily** as a representative of 100 undergraduate national scholarship winners, **only 4** of whom were from Guangdong Province. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMC 2024</div><img src='images/cmc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMC 2024</div><img src='{{ site.baseurl }}/images/cmc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model](https://www.techscience.com/cmc/v80n1/57421)
   
@@ -43,16 +43,24 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 [**Project**](https://github.com/Yorkson-huang/Text-to-image-SA)
 
 - <a> https://github.com/Yorkson-huang/Text-to-image-SA <img src="https://img.shields.io/github/stars/Yorkson-huang/Text-to-image-SA?style=social" alt=""></a>
-- <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=edyJPQQAAAAJ&citation_for_view=edyJPQQAAAAJ:d1gkVwhDpl0C"> <img id="citation-badge-1" src="https://img.shields.io/badge/Citations-2-blue?style=social&logo=google-scholar" class="paper_citations" data-paper-id="edyJPQQAAAAJ:d1gkVwhDpl0C" alt="Scholar Citations"></a>
-- <span class="citation-btn" onclick="toggleCitation('citation1')">Cite</span>
+- <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=edyJPQQAAAAJ&citation_for_view=edyJPQQAAAAJ:d1gkVwhDpl0C"> <img id="citation-badge-1" src="https://img.shields.io/badge/Citations-2-blue?style=social&logo=google-scholar" class="paper_citations" data-paper-id="edyJPQQAAAAJ:d1gkVwhDpl0C" alt="Scholar Citations"></a><span class="citation-btn" onclick="toggleCitation('citation1')">Cite</span>
 <div id="citation1" class="citation-popup">
-  <div class="citation-format" onclick="copyToClipboard(this.textContent)">GB/T: Li J, Huang Y, Lu Y, et al. Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model[J]. Computers, Materials & Continua, 2024, 80(1).</div>
-  <div class="citation-format" onclick="copyToClipboard(this.textContent)">MLA: Li, Jiawen, et al. "Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model." Computers, Materials & Continua 80.1 (2024).</div>
-  <div class="citation-format" onclick="copyToClipboard(this.textContent)">APA: Li, J., Huang, Y., Lu, Y., Wang, L., Ren, Y., & Chen, R. (2024). Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model. Computers, Materials & Continua, 80(1).</div>
+  <div class="citation-format-container">
+    <div class="citation-format-label">GB/T</div>
+    <div class="citation-format">Li J, Huang Y, Lu Y, et al. Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model[J]. Computers, Materials & Continua, 2024, 80(1).</div>
+  </div>
+  <div class="citation-format-container">
+    <div class="citation-format-label">MLA</div>
+    <div class="citation-format">Li, Jiawen, et al. "Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model." Computers, Materials & Continua 80.1 (2024).</div>
+  </div>
+  <div class="citation-format-container">
+    <div class="citation-format-label">APA</div>
+    <div class="citation-format">Li, J., Huang, Y., Lu, Y., Wang, L., Ren, Y., & Chen, R. (2024). Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model. Computers, Materials & Continua, 80(1).</div>
+  </div>
 </div>
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Letters</div><img src='images/EL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Letters</div><img src='{{ site.baseurl }}/images/EL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction](https://www.engineeringletters.com/issues_v32/issue_10/EL_32_10_14.pdf)
   
@@ -61,12 +69,20 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 [**Project**](https://github.com/Yorkson-huang/CNN-LSTM-Attention-Prediction)
 
 - <a>KOA-CNN-LSTM-Attention-Prediction <img src="https://img.shields.io/github/stars/Yorkson-huang/CNN-LSTM-Attention-Prediction?style=social" alt=""></a>
-- <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=edyJPQQAAAAJ&citation_for_view=edyJPQQAAAAJ:2osOgNQ5qMEC"> <img id="citation-badge-2" src="https://img.shields.io/badge/Citations-3-blue?style=social&logo=google-scholar" class="paper_citations" data-paper-id="edyJPQQAAAAJ:2osOgNQ5qMEC" alt="Scholar Citations"></a>
-- <span class="citation-btn" onclick="toggleCitation('citation2')">Cite</span>
+- <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=edyJPQQAAAAJ&citation_for_view=edyJPQQAAAAJ:2osOgNQ5qMEC"> <img id="citation-badge-2" src="https://img.shields.io/badge/Citations-3-blue?style=social&logo=google-scholar" class="paper_citations" data-paper-id="edyJPQQAAAAJ:2osOgNQ5qMEC" alt="Scholar Citations"></a><span class="citation-btn" onclick="toggleCitation('citation2')">Cite</span>
 <div id="citation2" class="citation-popup">
-  <div class="citation-format" onclick="copyToClipboard(this.textContent)">GB/T: Huang Y, Li J, Li Y, et al. An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction[J]. Engineering Letters, 2024, 32(10).</div>
-  <div class="citation-format" onclick="copyToClipboard(this.textContent)">MLA: Huang, Yuesheng, et al. "An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction." Engineering Letters 32.10 (2024).</div>
-  <div class="citation-format" onclick="copyToClipboard(this.textContent)">APA: Huang, Y., Li, J., Li Y., Lin, R., Wu, J., Wang, L., & Chen, R. (2024). An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction. Engineering Letters, 32(10).</div>
+  <div class="citation-format-container">
+    <div class="citation-format-label">GB/T</div>
+    <div class="citation-format">Huang Y, Li J, Li Y, et al. An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction[J]. Engineering Letters, 2024, 32(10).</div>
+  </div>
+  <div class="citation-format-container">
+    <div class="citation-format-label">MLA</div>
+    <div class="citation-format">Huang, Yuesheng, et al. "An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction." Engineering Letters 32.10 (2024).</div>
+  </div>
+  <div class="citation-format-container">
+    <div class="citation-format-label">APA</div>
+    <div class="citation-format">Huang, Y., Li, J., Li Y., Lin, R., Wu, J., Wang, L., & Chen, R. (2024). An Improved Hybrid CNN-LSTM-Attention Model with Kepler Optimization Algorithm for Wind Speed Prediction. Engineering Letters, 32(10).</div>
+  </div>
 </div>
 </div>
 </div>
