@@ -33,7 +33,7 @@ My research interests include medical artificial intelligence, social computing,
 - *2024.05*: &nbsp;🎉🎉 Yuesheng Huang was featured in the **People's Daily** as a representative of 100 undergraduate national scholarship winners, **only 4** of whom were from Guangdong Province. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><embed src='{{ site.baseurl }}/images/fig1.pdf' type='application/pdf' width="100%" height="150px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='{{ site.baseurl }}/images/fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Can Generated Images Serve as a Viable Modality for Text-Centric Multimodal Learning?](https://arxiv.org/abs/2506.17623)
   
