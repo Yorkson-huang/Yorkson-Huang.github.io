@@ -100,7 +100,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 
 # 🎓 教育背景
 <span class='anchor' id='-educations'></span>
-- *2021.09 - 2025.06 (现在)*, 物联网工程学士学位（**ESI前1%**）, 计算机科学学院, 广东技术师范大学。（**GPA:91.9/100, 排名:1/112**）
+- *2021.09 - 2025.06*, 物联网工程 工学学士学位（**ESI前1%**）, 计算机科学学院, 广东技术师范大学。（**GPA:92.3/100, 排名:1/111**）
   - **毕业设计:** <span class="thesis-title" onclick="toggleThesis('thesis-zh')">基于多模态数据与大模型赋能的学生情感智能分析与监测系统设计</span>
   <div id="thesis-zh" class="thesis-abstract">
     <strong>摘要</strong><br>
@@ -123,7 +123,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 - *2024.05-2025.05*, "Neurodetective：用于神经退行性疾病诊断的可解释多模态对比学习框架", 中国大学生创新创业计划项目, **黄悦生为主持人**。(项目已完成)
 - *2024.05-2025.05*, "水产共生，生态共荣：一种用于数字水产养殖鱼塘系统的通用农业视觉大模型DASAM", 中国大学生创新创业计划项目, 第二参与人。(项目已完成)
 - *2025.05-2026.05*, "基于混合专家（MoE）多模态模型的阿尔茨海默病早期诊断系统", 中国大学生创新创业计划项目, 第二参与人。
-- *2025.05-2026.05*, "扩散模型赋能的多模态决策制定：突破AI辅助诊断平台中罕见病医学图像短缺的瓶颈", 中国大学生创新创业计划项目, 第二参与人。
+- *2025.05-2026.05*, "扩散模型赋能的多模态决策：突破AI辅助诊断平台中罕见病医学图像短缺的瓶颈", 中国大学生创新创业计划项目, 第二参与人。
 
 # ©️ 专利与版权
 <span class='anchor' id='-patents-and-copyrights'></span>
