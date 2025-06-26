@@ -33,6 +33,22 @@ My research interests include medical artificial intelligence, social computing,
 - *2024.05*: &nbsp;🎉🎉 Yuesheng Huang was featured in the **People's Daily** as a representative of 100 undergraduate national scholarship winners, **only 4** of whom were from Guangdong Province. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><embed src='{{ site.baseurl }}/images/fig1.pdf' type='application/pdf' width="100%" height="150px"></div></div>
+<div class='paper-box-text' markdown="1">
+[Can Generated Images Serve as a Viable Modality for Text-Centric Multimodal Learning?](https://arxiv.org/abs/2506.17623)
+  
+**Yuesheng Huang**, Peng Zhang, Riliang Liu, Jiaqi Liang
+
+- <a href="https://arxiv.org/abs/2506.17623">arXiv:2506.17623</a>
+<span class="citation-btn" onclick="toggleCitation('citation-arxiv2025')">Cite</span>
+<div id="citation-arxiv2025" class="citation-popup">
+  <div class="citation-format-container">
+    <div class="citation-format-label">BibTeX</div>
+    <div class="citation-format">@misc{huang2025generatedimagesserveviable,<br>      title={Can Generated Images Serve as a Viable Modality for Text-Centric Multimodal Learning?}, <br>      author={Yuesheng Huang and Peng Zhang and Riliang Liu and Jiaqi Liang},<br>      year={2025},<br>      eprint={2506.17623},<br>      archivePrefix={arXiv},<br>      primaryClass={cs.MM},<br>      url={https://arxiv.org/abs/2506.17623}, <br>}</div>
+  </div>
+</div>
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMC 2024</div><img src='{{ site.baseurl }}/images/cmc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sentiment Analysis Using E-Commerce Review Keyword-Generated Image with a Hybrid Machine Learning-Based Model](https://www.techscience.com/cmc/v80n1/57421)
