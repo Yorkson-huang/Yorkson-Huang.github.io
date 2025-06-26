@@ -103,7 +103,7 @@ Jiawen Li, **Yuesheng Huang**, Yayi Lu, Leijun Wang*, Yongqi Ren and Rongjun Che
 </div>
 </div>
 
-<li><code class="language-plaintext highlighter-rouge">ISCTIS 2024</code> <a href="https://ieeexplore.ieee.org/document/10699096">A FinBERT Framework for Sentiment Analysis of Chinese Financial News</a>, <strong>Yuesheng Huang</strong>, Renyi Lin, Jiawen Li, et al. </li>
+<li><code class="language-plaintext highlighter-rouge">ISCTIS 2024</code> <a href="https://ieeexplore.ieee.org/document/10699096">A FinBERT Framework for Sentiment Analysis of Chinese Financial News</a> <a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=edyJPQQAAAAJ&citation_for_view=edyJPQQAAAAJ:qjMakFHDy7sC"><img id="citation-badge-finbert" src="https://img.shields.io/badge/Citations-2-blue?style=social&logo=google-scholar" class="paper_citations" data-paper-id="edyJPQQAAAAJ:qjMakFHDy7sC" alt="Scholar Citations"></a>, <strong>Yuesheng Huang</strong>, Renyi Lin, Jiawen Li, et al. </li>
 <li><code class="language-plaintext highlighter-rouge">EIECT 2023</code> <a href="https://ieeexplore.ieee.org/document/10442935">An Ensemble Learning Approach for Wind Power Forecasting</a>, <strong>Yuesheng Huang</strong>, Sida Chen, Qilin Wu, et al. </li>
 
 # 🏆 Honors and Awards
